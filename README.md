@@ -19,5 +19,7 @@
 ## Services Used
 - Azure Health Bot
 - Static Webapps
+## Home
+![image](https://github.com/muyeen2002/kuppamwaterbottles/assets/126650961/ea17f9cb-b0cf-4b2e-ae62-a3f1e99db70a)
 
 
