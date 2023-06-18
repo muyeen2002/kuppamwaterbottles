@@ -29,3 +29,9 @@ So to sell this world quality water bottles and to gain huge market we made this
 ![2023-06-18 (5)](https://github.com/muyeen2002/kuppamwaterbottles/assets/126650961/e5dd3c71-8904-401b-b5c5-5553445c3eaf)
 ## Healthbot
 ![2023-06-18 (6)](https://github.com/muyeen2002/kuppamwaterbottles/assets/126650961/f79b5577-c00b-419e-92be-01b3b9366119)
+## Tech Stack 
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
